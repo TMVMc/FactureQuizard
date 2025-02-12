@@ -54,7 +54,7 @@ st.markdown(
 
 # App title and introduction
 st.title("FactureQuizard")
-st.subheader("Plastic Jewelry Manufacturing Process Selector")
+st.subheader("Plastic Jewelry Facture Selector")
 st.write("Answer the questions below to determine the best manufacturing process for your jewelry design.")
 
 # Create a form for user input
